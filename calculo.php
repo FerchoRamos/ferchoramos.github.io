@@ -13,9 +13,9 @@
             <nav>
                 <ul>
                     <a href="./index.html"><li >INICIO</li></a>
-                    <a href="../Página tarea UTEG/Pages/HTML.html"><li >HTML</li></a>
-                    <a href="../Página tarea UTEG/Pages/CSS.html"><li >CSS</li></a>
-                    <a href="../Página tarea UTEG/Pages/ARQ SERVICIOS.html"><li >ARQUITECTURA DE SERVICIOS</li></a>
+                    <a href="../ferchoramos.github.io/Pages/HTML.html"><li >HTML</li></a>
+                    <a href="../ferchoramos.github.io/Pages/CSS.html"><li >CSS</li></a>
+                    <a href="../ferchoramos.github.io/Pages/ARQ SERVICIOS.html"><li >ARQUITECTURA DE SERVICIOS</li></a>
                     <a href="./calculo.php"><li >PHP</li></a>
                 </ul>
             </nav>
