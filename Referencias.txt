@@ -1,0 +1,9 @@
+Bibliografía
+
+Arquitectura cliente servidor: qué es, tipos y ejemplos. (s/f). Arsys. Recuperado el 18 de agosto de 2024, de https://www.arsys.es/blog/todo-sobre-la-arquitectura-cliente-servidor
+
+HTML: Lenguaje de etiquetas de hipertexto. (s/f). MDN Web Docs. Recuperado el 18 de agosto de 2024, de https://developer.mozilla.org/es/docs/Web/HTML
+
+¿Qué es la arquitectura orientada a los servicios (SOA)? (s/f). Redhat.com. Recuperado el 18 de agosto de 2024, de https://www.redhat.com/es/topics/cloud-native-apps/what-is-service-oriented-architecture
+
+Recursivos. (2021, junio 16). HTML: Controles. Recursivos. https://recursivos.com/html/controles/
